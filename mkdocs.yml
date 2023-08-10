@@ -53,7 +53,8 @@ theme:
 
 plugins:
   - search
-
+  - table-reader:
+      data_path: "docs/assets/tables"
 
 markdown_extensions:
   - admonition
