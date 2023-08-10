@@ -123,7 +123,7 @@ nav:
         - src/engenharia/ajuda/index.md
         - src/engenharia/ajuda/erro_no_deploy.md
     - Glossário:
-      - src\glossario\Glossario.md
+      - docs\src\glossario\Glossario.md
     - Repasse:
       - src/repasse/repasse.md
     - Como documentar os projetos ?:
