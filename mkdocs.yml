@@ -131,3 +131,5 @@ nav:
       - src/padrao/arquitetura.md
       - src/padrao/desenvolvimento.md
       - src/padrao/novo_repositorio.md
+    - EXAMES :
+      - src/padrao/exames.md
